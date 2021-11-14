@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Spectral:ital,wght@1,800&display=swap');
+.brand {
+    position: relative;
+    color: white;
+}
+.inline {
+    display: flex;
+}
+.brand-text {
+    color: white;
+    font-family: 'Spectral', serif;
+    font-size: 4em;
+    margin-left: 6.5em;
+   
+}
+.brand-text span {
+    font-size: 0.2em;   
+}
+.brand-design {
+    color: #ffd700;
+    margin-left: -2em;
+    margin-top: -70px;  
+}
+.brand-img {
+    position: absolute;
+}
+.brand-img img {
+    transform: scaleX(-1);
+    margin-top: -17em;
+    margin-left: 15em;
+
+}

@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&family=Spectral:ital,wght@1,800&display=swap');
+.content {
+    position: absolute;
+    margin-left: 25em;
+    margin-top: 15em;
+    border: 3px solid white;
+    height: 25vh;
+    width: 50vw;
+    border-radius: 5px;
+}
+.content-text {
+    margin-top: 80px;
+    margin-left: -30em;
+    color: #ffd700;
+    font-weight: 100;
+    font-family: 'Roboto', sans-serif;
+}
+.left {
+    margin-left: -2.5em;
+}
+.content-img {
+    position: absolute;
+    margin-left:  15em;
+    margin-top: -18em;
+}
+@media only screen and (max-width: 600px) {
+    
+  }
